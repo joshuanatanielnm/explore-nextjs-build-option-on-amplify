@@ -1,0 +1,22 @@
+{
+  "name": "notesapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "antd": "^4.16.2",
+    "aws-amplify": "^4.0.3",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "uuid": "^8.3.2"
+  },
+  "description": "explore nextjs build option available on amplify",
+  "main": "index.js",
+  "author": "Joshua Nathaniel M <clsjoshua@gmail.com>",
+  "license": "MIT"
+}
